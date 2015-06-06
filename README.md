@@ -1,4 +1,4 @@
-# OLP-jscs
+# Javascript Style Guide for the Open Lighting Project
 
 The repo holds the style configuration for Javascript used in Open Lighting Projects. We use the Javascript Code Style tool: https://github.com/jscs-dev/node-jscs
 
