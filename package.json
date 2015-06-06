@@ -1,5 +1,5 @@
 {
-  "name": "OLP-JSCS",
+  "name": "olp-javascript-style",
   "version": "0.0.1",
   "description": "Open Lighting Project jscs presets and rules",
   "main": "index.js",

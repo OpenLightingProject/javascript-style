@@ -17,15 +17,13 @@
   "disallowTrailingComma": true,
   "disallowTrailingWhitespace": true,
   "disallowSpacesInFunctionExpression": {
-    "beforeOpeningRoundBrace": true,
-    "beforeOpeningCurlyBrace": false
+    "beforeOpeningRoundBrace": true
   },
   "maximumLineLength": {
     "value": 80,
     "tabSize": 2,
     "allowComments": true,
-    "allowUrlComments": true,
-    "allowRegex": false
+    "allowUrlComments": true
   },
   "requireAnonymousFunctions": true,
   "requireBlocksOnNewline": true,
@@ -62,7 +60,6 @@
     "function"
   ],
   "requireSpacesInFunction": {
-    "beforeOpeningRoundBrace": false,
     "beforeOpeningCurlyBrace": true
   },
   "requireSpacesInForStatement": true,
