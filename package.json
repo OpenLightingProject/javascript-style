@@ -1,0 +1,13 @@
+{
+  "name": "OLP-JSCS",
+  "version": "0.0.1",
+  "description": "Open Lighting Project jscs presets and rules",
+  "main": "index.js",
+  "author": {
+    "name": "Open Lighting Project",
+    "url": "https://www.openlighting.org/"
+  },
+  "devDependencies": {
+    "jscs": ">=1.8.0 <2.0.0"
+  }
+}
