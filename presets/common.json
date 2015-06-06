@@ -16,7 +16,6 @@
   "disallowSpacesInCallExpression": true,
   "disallowTrailingComma": true,
   "disallowTrailingWhitespace": true,
-  "disallowYodaConditions": true,
   "maximumLineLength": {
     "value": 80,
     "tabSize": 2,
@@ -26,7 +25,6 @@
   },
   "requireAnonymousFunctions": true,
   "requireBlocksOnNewline": true,
-  "requireCapitalizedComments": true,
   "requireCommaBeforeLineBreak": true,
   "requireCurlyBraces": [
     "if",
@@ -71,7 +69,7 @@
     "beforeAlternate": true
   },
   "validateIndentation": {
-    "value": 1,
+    "value": 2,
     "includeEmptyLines": false
   },
   "validateQuoteMarks": "'",
