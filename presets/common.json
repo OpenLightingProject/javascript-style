@@ -56,8 +56,7 @@
     "while",
     "with",
     "return",
-    "typeof",
-    "function"
+    "typeof"
   ],
   "requireSpacesInFunction": {
     "beforeOpeningCurlyBrace": true
