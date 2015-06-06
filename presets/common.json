@@ -16,6 +16,10 @@
   "disallowSpacesInCallExpression": true,
   "disallowTrailingComma": true,
   "disallowTrailingWhitespace": true,
+  "disallowSpacesInFunctionExpression": {
+    "beforeOpeningRoundBrace": true,
+    "beforeOpeningCurlyBrace": false
+  },
   "maximumLineLength": {
     "value": 80,
     "tabSize": 2,
@@ -58,7 +62,7 @@
     "function"
   ],
   "requireSpacesInFunction": {
-    "beforeOpeningRoundBrace": true,
+    "beforeOpeningRoundBrace": false,
     "beforeOpeningCurlyBrace": true
   },
   "requireSpacesInForStatement": true,
