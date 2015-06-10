@@ -41,7 +41,6 @@
   ],
   "requireDotNotation": true,
   "requireSemicolons": true,
-  "requirePaddingNewLinesInObjects": false,
   "requireSpaceBeforeBinaryOperators": true,
   "requireSpaceAfterKeywords": [
     "do",
