@@ -35,7 +35,8 @@
     "while",
     "do",
     "try",
-    "catch"
+    "catch",
+    "switch"
   ],
   "requireDotNotation": true,
   "requireSemicolons": true,
