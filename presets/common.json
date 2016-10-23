@@ -35,9 +35,7 @@
     "while",
     "do",
     "try",
-    "catch",
-    "case",
-    "default"
+    "catch"
   ],
   "requireDotNotation": true,
   "requireSemicolons": true,
