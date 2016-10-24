@@ -1,6 +1,6 @@
 {
   "name": "olp-javascript-style",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Open Lighting Project jscs presets and rules",
   "main": "index.js",
   "license" : "GPL-3.0",
@@ -10,6 +10,7 @@
   },
   "contributors": [
     "Simon Newton",
+    "Peter Newman",
     "Dave Olsthoorn"
   ],
   "repository": "OpenLightingProject/javascript-style",

@@ -36,8 +36,7 @@
     "do",
     "try",
     "catch",
-    "case",
-    "default"
+    "switch"
   ],
   "requireDotNotation": true,
   "requireSemicolons": true,
